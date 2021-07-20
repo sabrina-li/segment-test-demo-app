@@ -6,6 +6,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <Segment/SEGAnalytics.h>
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
